@@ -1,4 +1,4 @@
-ackage com.example.firstandroidtest;
+package com.example.firstandroidtest;
 
 import androidx.appcompat.app.AppCompatActivity;
 
