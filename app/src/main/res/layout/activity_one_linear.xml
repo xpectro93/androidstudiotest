@@ -2,6 +2,8 @@
 <!-- Linear Layouts create a grid that helps you place elements vertically only
 If two Linear Layouts are nested, the inner Linear Layout elements will take up
 from left to right instead
+
+**useful for registration forms
 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
